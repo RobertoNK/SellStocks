@@ -1,0 +1,11 @@
+Make the following changes to the SellStocks program(Programming
+Project 4, Chapter2):
+
+a) Add a loop so that, after displaying the net proceeds, the
+program will ask the user for another stock price, number of
+shares, and commission rate. The process will repeat indefinitely
+until the user enters zero to the stock price.
+
+b) Have the program put two digits after the decimal point when
+displaying dollar amounts. (The original program would display
+$10.5 instead of $10.50.)
